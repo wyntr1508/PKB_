@@ -23,3 +23,5 @@ num_class=len(np.unique(labels))
 
 thetas=np.random.rand(m,n-1)*0,001
 #print(thetas)
+
+#############################################################
