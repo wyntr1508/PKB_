@@ -22,6 +22,7 @@ t_images = np.hstack((t_bias,t_images))
 num_class=len(np.unique(labels))
 
 thetas=np.random.rand(m,n-1)*0,001
-#print(thetas)
+print(thetas)
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
+train.X = np.ones(images.shape)
+test.X = np.ones(t_images.shape)
