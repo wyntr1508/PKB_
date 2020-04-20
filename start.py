@@ -24,4 +24,8 @@ num_class=len(np.unique(labels))
 thetas=np.random.rand(m,n-1)*0,001
 #print(thetas)
 
+<<<<<<< HEAD
 #############################################################
+=======
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
+>>>>>>> 9290b80b37a0a193a53caace5c7885040cdb0190
