@@ -23,3 +23,9 @@ num_class=len(np.unique(labels))
 
 thetas=np.random.rand(m,n-1)*0,001
 print(thetas)
+<<<<<<< HEAD
+=======
+
+train.X = np.ones(images.shape)
+test.X = np.ones(t_images.shape)
+>>>>>>> 1ff7b7b366178f65b9fa914517bfa64b278f753c
