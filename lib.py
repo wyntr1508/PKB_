@@ -1,6 +1,6 @@
 import numpy as np
 
-print_statistics(images, t_images, labels, t_labels):
+ def print_statistics(images, t_images, labels, t_labels):
     #number of training dataset
     len(labels)
     #number of test dataset
